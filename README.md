@@ -11,7 +11,7 @@ python3 main.py
 
 A plot comparing the modeled population and actual data will automatically appear.
 
-##Features
+## Features
 - Exponential growth modeling
 - Logistic growth modeling
 - Automatic curve fitting
